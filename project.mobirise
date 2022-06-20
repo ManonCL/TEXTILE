@@ -104,7 +104,8 @@
     "canonical-url": "",
     "imageResize": true,
     "mbrsiteDomain": "hbsmogykgg",
-    "gdpr": false
+    "gdpr": false,
+    "publishChangesOnly": true
   },
   "pages": {
     "index.html": {
